@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLID_Example_TGC_S", "SOLID_Example_TGC\SOLID_Example_TGC_S.csproj", "{B4F93A20-4BB8-493A-B088-75A01F61CADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_Example_TGC_O", "SOLID_Example_TGC_O\SOLID_Example_TGC_O.csproj", "{83F931D5-113A-41BC-9EEE-9936918F4E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4F93A20-4BB8-493A-B088-75A01F61CADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F93A20-4BB8-493A-B088-75A01F61CADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F93A20-4BB8-493A-B088-75A01F61CADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F93A20-4BB8-493A-B088-75A01F61CADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83F931D5-113A-41BC-9EEE-9936918F4E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F931D5-113A-41BC-9EEE-9936918F4E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F931D5-113A-41BC-9EEE-9936918F4E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F931D5-113A-41BC-9EEE-9936918F4E26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDC876CA-89A2-499E-8726-1C3494A260D2}
+	EndGlobalSection
+EndGlobal
